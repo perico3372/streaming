@@ -1,0 +1,8 @@
+pyspark
+pyarrow
+sqlachemy
+mysql
+mysql-connector-python
+uvicorn
+fastapi
+
