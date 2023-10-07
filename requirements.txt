@@ -1,8 +1,6 @@
-pyspark
-pyarrow
-sqlachemy
-mysql
-mysql-connector-python
+#pandas
+sqlalchemy
 uvicorn
+pyspark
 fastapi
-
+mysql-connector-python
